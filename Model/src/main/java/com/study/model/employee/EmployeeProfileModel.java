@@ -9,6 +9,8 @@ import javax.persistence.Table;
 @Table(name = "employee_profile")
 public class EmployeeProfileModel {
 
+	int a =20;
+	String fof = "test";
 	@Id
 	@Column(name = "emp_id")
 	private String emp_id;
