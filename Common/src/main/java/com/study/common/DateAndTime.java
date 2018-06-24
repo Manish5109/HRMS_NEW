@@ -10,6 +10,7 @@ public class DateAndTime {
 
 	String iDateFormate;
 	String iDateTimeFormate;
+	String s;
 	String oDateFormate;
 	String oDateTimeFormate;
 	String dValue;
